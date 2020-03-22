@@ -2,12 +2,10 @@ spring:
 profiles:
 active:
 dev
-
 spring:
 profiles:dev
 application:
 name:spring-cloud-demo-config-dev
-
 spring:
 profiles:test
 application:

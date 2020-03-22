@@ -3,10 +3,10 @@ profiles:
 active:
 dev
 
-spring:profiles:dev
-application:name:spring-cloud-demo-config-dev
+spring:
+profiles:dev
 
-spring:profiles:test
-application:name:spring-cloud-demo-config-test
+spring:
+profiles:test
 
 #保存为UTF-8，切记，切记
